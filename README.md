@@ -1,2 +1,2 @@
-# First-Docker-Project
-This is my first docker project
+# Docker-Project-Basics
+Training on docker
